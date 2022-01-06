@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3DPi
-- 👀 I’m interested in Raspberry Pi, Arduino Uno, 3D Printing using Marlin
+- 👀 I’m interested in Raspberry Pi, Arduino Uno, 3D Printing using Marlin and Octoprint. 
 - 🌱 I’m currently learning Visual Studio Code software.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me terry@field-ottawa.ca
